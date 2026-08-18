@@ -54,10 +54,8 @@ The project uses SSH authentication logs containing:
 
 The dataset is available in:
 
-dataset/ssh_auth.log
+
 
 ## SPL Queries
 
 The complete SPL queries used in this project are available in:
-
-queries/ssh_detection_queries.spl
