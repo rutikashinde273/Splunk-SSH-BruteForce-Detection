@@ -52,10 +52,11 @@ The project uses SSH authentication logs containing:
 - Target usernames
 - Authentication timestamps
 
-The dataset is available in:
+## Dataset 
 
+The dataset is available in:
 
 
 ## SPL Queries
 
-The complete SPL queries used in this project are available in:
+The complete SPL queries used in this project are available in:queries/ssh_detection_queries.spl
